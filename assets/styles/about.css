@@ -1,0 +1,12 @@
+.about {
+  height: 70vh;
+  text-align: center;
+  margin: 70px;
+  font-size: 18px;
+}
+
+img {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+}
